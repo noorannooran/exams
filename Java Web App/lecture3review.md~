@@ -1,0 +1,40 @@
+# Midterm Review
+## Lecture 3 : Handling the Client Request- Form Data
+### HTTP GET VS POST
+
+### GET
+- simplest
+- ask server to GET a resource and send it back
+- HTML, jpeg, PDF, etc
+
+### POST
+- can send user data
+- GET+
+- allow caller to request something, send form data to server
+
+#### More
+- can send info with GET
+  - in the URL for example
+  
+### GET
+#### PROS
+- URLs bookmarked safely
+- reloaded safely
+- browser can cache results
+- easier to test interactively
+
+#### CONS
+- security risk: variables are sent through url
+- limited variables can be passed through = 2048 max
+
+### POST
+#### PROS
+- security : not displayed in URL
+- unlimited number
+- URL is simpler
+- special characters can be sent
+- browser will not cache results
+
+#### CONS
+- page cannot be bookmarked
+- performance response degraded

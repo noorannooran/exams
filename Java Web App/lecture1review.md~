@@ -1,0 +1,15 @@
+# Midterm Review
+## lecture 1 : Intro to servlets
+
+### Java Web Apps
+#### Approaches
+- Servlet/ JSP
+  - lower level API that does less work for programmer
+  - high degree of control
+- JSF Java Server Faces
+  - higher level API does more work for programmer
+  - difficult to control presentation layer
+- Framework (Spring/Struts)
+  - higher higher level API does more work
+	- high degree of control over presentation layer
+	

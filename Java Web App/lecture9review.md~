@@ -1,0 +1,13 @@
+# Midterm Review
+## Lecture 7: Cookies
+
+### Background info
+- cookie: small amount of info sent from server-> browser, then back
+
+#### Uses:
+- authentication
+- user tracking
+- user prefs
+
+#### Composition
+- name/value pair

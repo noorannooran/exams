@@ -1,0 +1,17 @@
+# Midterm Review
+## Lecture 2: servlet intro and basics
+ 
+### Structure
+1. src
+	- code and packages
+2. WebContent
+	- web files
+3. WebContent> Lib
+	- External libraries
+4. WebContent> WEB-INF
+	- optional with servlets 3.0
+	
+### Annotations
+- Use custom annotations
+  - @WebServlet('/test1')
+  - **SERVLET MAPPING**
