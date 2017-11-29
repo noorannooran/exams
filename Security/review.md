@@ -106,3 +106,16 @@ Midterm Review
   - avoid detection
 - Payload capabilities
   - stealing password/ getting user data
+  
+#### Circulation
+- Viruses
+  - reproduces itself automatically on **host** computer
+  - cannot spread by itself
+- Worms
+  - primary purpose to **spread** from computer to computer
+  - aka NETWORK VIRUSES
+- Viruses VS Worms
+  - viruses replicate on **host** computer
+  - worm will replicate **from** computer to computer
+  
+
