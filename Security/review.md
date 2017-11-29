@@ -217,9 +217,12 @@ Midterm Review
   - loss of reputation
 - One of the armoured virus infection techniques utililizes encryption to make virus code more difficult to detect, in addition to separating virus code into different pieces and injecting throughout the infected program code. what is the name for this technique?
   - Swiss Cheese
-
+- What is the type of malware that appears to have a legitimate use but actually contains something malicious
+  - Trojan
 ### True or False
 - Spreading similarly to a virus, a worm inserts itself malicious into a program or data file
+  - False
+- The demand for certified IT professionals who know how to secure networks and computers is at an all-time low
   - False
 
 	
