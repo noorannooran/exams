@@ -184,6 +184,9 @@ Midterm Review
 - list different types of networking based attacks
 
 ### Server Side Web Application Attacks
+- Cross-site Scripting (XSS)
+- SQL Injection
+- Directory Transversal
 - **zero day attack** exploiting previously unknown vulnerabilities
 
 ## Host, Application and Data Security
