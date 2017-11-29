@@ -176,3 +176,50 @@ Midterm Review
 - Tailgating
   - authorized person opens the door, anyone can follow
 - Shoulder surfing
+
+## Quiz 1 A&A
+
+1. What type of malware is heavily dependent on a user in order to spread?
+   - virus
+-  What term is used to describe a means of gathering information for an attack by relying on the weakness of individuals?
+   - social enginerring
+- WHat is the term used to describe unsoclicited messages received on instant messaging software?
+  - 
+- Select the term for individuals who want to attack computers yet lack the knowledge of computers and networks needed to do so
+  - Script Kiddies
+
+#### Match the following with the appropriate definitions
+- A software program that delivers advertising content in a manner that is unexpected and unwanted
+  - Adware
+- Computer code that lies dormant until it is triggered by a specific logical event
+  - logic bomb
+- A logical computer network of zombies under the control of an attacker
+  - botnet
+- A false warning designed to trick users into changing security settings on their computer
+  - hoax
+- A phishing attack that using telephone calls instead of emails
+  - vishing/ voice phishing
+- Software code that gives access to a program or service circumventing normal security protections
+  - Trojan
+- Computer virus written in a script known as macro
+  - macro virus
+- Software or hardware device that captures and stores each keystroke that a user types
+  - keylogger
+- phishing attack that targets specific users
+  - spear phishing
+- malicious computer code that reproduces itself on the same computer
+  - computer virus
+
+### Q&A continued
+- In information security, what constitutes a loss?
+  - loss of information
+  - financial loss due to time
+  - loss of reputation
+- One of the armoured virus infection techniques utililizes encryption to make virus code more difficult to detect, in addition to separating virus code into different pieces and injecting throughout the infected program code. what is the name for this technique?
+  - Swiss Cheese
+
+### True or False
+- Spreading similarly to a virus, a worm inserts itself malicious into a program or data file
+  - False
+
+	
