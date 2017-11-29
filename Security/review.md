@@ -291,6 +291,11 @@ Midterm Review
 - Security through configuration
 - Security through design
 - Securing with anti-malware
+  - pop up blockers
+  - anti spam
+  - antivirus
+  - antispyware
+  - host-based firewalls
 
 ## Quiz 1 A&A
 
