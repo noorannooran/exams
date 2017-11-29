@@ -111,11 +111,13 @@ Midterm Review
 - Viruses
   - reproduces itself automatically on **host** computer
   - cannot spread by itself
+  - can infect a file
 - Worms
   - primary purpose to **spread** from computer to computer
   - aka NETWORK VIRUSES
-- Viruses VS Worms
-  - viruses replicate on **host** computer
-  - worm will replicate **from** computer to computer
-  
+  - cannot infect a file
+- Trojans
+  - exe masquerading as another activity
+  - with the user's knowledge, malicious payload
+  - can infect a file
 
