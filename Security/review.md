@@ -315,6 +315,11 @@ Midterm Review
 - DLP Agent Sensors
   - installed on each host device: protect data **in use** : watch for actions like printing, copying to USB, burning to CD or DVD
 
+### Summary
+> Security control: any device/ process used to reduce risk
+> Hardware security: physical security: protect the hardware of the host system
+> One means of securing data is through data loss prevention DLP
+
 ## Quiz 1 A&A
 
 1. What type of malware is heavily dependent on a user in order to spread?
