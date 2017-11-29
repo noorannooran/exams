@@ -223,8 +223,10 @@ Midterm Review
 - attacker impersonates user using session token
 - uses XXS
 - eavesdrop on transmission or guessing a User Token
-- Malicious Add-Ons
 
+#### Malicious Add-Ons
+- attacker creates malicious add-ons to launch attacks against the user's computer
+- Java, Adobe Flash Player, Apple QuickTime, Adobe Acrobat Reader
 ## Host, Application and Data Security
 
 ## Quiz 1 A&A
