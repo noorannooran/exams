@@ -310,7 +310,8 @@ Midterm Review
 #### 3 types of DLP sensors
 1. DLP Network Sensors
 - DLP Storage Sensors
-- DLP Agent Users
+- DLP Agent Sensors
+
 ## Quiz 1 A&A
 
 1. What type of malware is heavily dependent on a user in order to spread?
