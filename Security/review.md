@@ -134,5 +134,11 @@ Midterm Review
   - keylogger (software or hardware)
 	- capture keystrokes, capture screen caps
 - delete data
+  - **logic bomb** code that lies dormant until triggered
 - modify security settings
+  - **backdoor** gives access to computer, program, service
 - launch attacks
+  - allows computer to be placed under remote control
+  - **zombie** infected computer
+  - **botnet** collection of zombies
+	- under control of **bot herder**
