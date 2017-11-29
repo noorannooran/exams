@@ -195,8 +195,9 @@ Midterm Review
 	- user input is filtered, SQL attack cannot be applied
   - **Server Failure**
 	- user input is not filtered, directly sent to database
-  -
 - Directory Transversal
+  - uses malformed input
+  - move from root dir to restricted directories
 
 - **zero day attack** exploiting previously unknown vulnerabilities
 
