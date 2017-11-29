@@ -62,3 +62,27 @@ Midterm Review
 - Command and control
   - remotely controlled by attacker
 - Action on objectives
+
+### Defending
+1. Layering
+   - several methods of protection
+   - e.g. Crown Jewels
+	 - layer 1 protective casing
+	 - layer 2 special room with sensors
+	 - layer 3 monitored by video cameras
+	 - layer 4 surrounded by security guards
+- Limiting
+  - authorized personnel only
+- Diversity
+  - layers of defense must be **diverse**
+- Obscurity
+  - e.g. obscuring security guard shift changes
+- Simplicity
+  - e.g. guards do not understand how the other defenses work
+
+### Importance of Security
+- prevent data theft
+- prevent identity theft
+- avoid consequences of not securing information
+- maintaining productivity
+- foil cyberterrorism
