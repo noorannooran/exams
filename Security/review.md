@@ -297,6 +297,20 @@ Midterm Review
   - antispyware
   - host-based firewalls
 
+### Application Security
+- development: security should be considered through all phases of SDLC
+  - application configuration baselines
+  - secure coding concepts
+  - application hardening and patch management
+
+### Securing Data
+> DLP Data Loss Prevention: security tools used to recognize and id data critical to the organization and ensure it's protected
+- Data in Use, data in transit, data at rest
+
+#### 3 types of DLP sensors
+1. DLP Network Sensors
+- DLP Storage Sensors
+- DLP Agent Users
 ## Quiz 1 A&A
 
 1. What type of malware is heavily dependent on a user in order to spread?
