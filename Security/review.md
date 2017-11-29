@@ -213,9 +213,16 @@ Midterm Review
 - attacker can modify referrer field to hide that the webpage is coming from another site
 
 #### Cookies
+- can be stolen and used to impersonate the user, track browsing or buying habits
 
-- Attachments
-- Session hijacking
+#### Attachments
+- files attached to email
+- used to spread Trojans, etc.
+
+#### Session hijacking
+- attacker impersonates user using session token
+- uses XXS
+- eavesdrop on transmission or guessing a User Token
 - Malicious Add-Ons
 
 ## Host, Application and Data Security
