@@ -131,6 +131,7 @@ Midterm Review
   - Adware
   - Ransomware
   - keylogger (software or hardware)
+	- capture keystrokes, capture screen caps
 - delete data
 - modify security settings
 - launch attacks
