@@ -185,8 +185,12 @@ Midterm Review
 
 ### Server Side Web Application Attacks
 - Cross-site Scripting (XSS)
+  - launch attacks on other computers that access the server
+  - inject scripts into a web application server
+  - **Solution**: turn off scripting in client browser to reduce risk, also reduces ability to use dynamic websites
 - SQL Injection
 - Directory Transversal
+
 - **zero day attack** exploiting previously unknown vulnerabilities
 
 ## Host, Application and Data Security
