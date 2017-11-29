@@ -262,6 +262,9 @@ Midterm Review
 	- System 1 can access System 2, System 2 can access System 3, System 1 can access System 3
 	- Microsoft Active Directory
 	  - all domains trust each other in two-way transitive trust
+	  
+#### Summary
+> Networks = high priority, single vulnerability = thousands of devices
 
 ## Host, Application and Data Security
 
