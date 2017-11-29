@@ -272,6 +272,26 @@ Midterm Review
 - define application security
 - explain how to secure data
 
+### Securing the Host
+> **security control** : any device or process used to reduce risk
+> **administrative controls**: actions users may do, must do, cannot do
+> **technical controls**: managed by devices
+- Security Control
+- External Perimeter Defences
+  - restrict access to areas where equipment is located
+- Internal physical access security
+  - hardware locks
+  - proximity readers
+  - access lists
+  - mantraps
+  - protected distribution systems for cabling
+- Hardware Security
+  - cable lock
+- Securing the OS
+- Security through configuration
+- Security through design
+- Securing with anti-malware
+
 ## Quiz 1 A&A
 
 1. What type of malware is heavily dependent on a user in order to spread?
