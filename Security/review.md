@@ -159,6 +159,8 @@ Midterm Review
 - typo squatting
   - near- URLS e.g. goggle.com
 - watering hole
+  - smaller group of specific individuals
+  - id common website and infect with malware
 
 #### Social Engineering Tactics
 1. Authority
