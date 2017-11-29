@@ -209,8 +209,11 @@ Midterm Review
 - users visit infected site, browser downloads script through hidden inline frame
 - script will instruct browser to connect to attackers webserver to download malware
   
-- Header Manipulation
-- Cookies
+#### Header Manipulation
+- attacker can modify referrer field to hide that the webpage is coming from another site
+
+#### Cookies
+
 - Attachments
 - Session hijacking
 - Malicious Add-Ons
