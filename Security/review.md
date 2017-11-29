@@ -203,6 +203,10 @@ Midterm Review
 ### Client Side Application Attacks
 >  target vulnerabilities in client applications that interact with compromised server
 - Drive By Download
+  - id vulnerable web server, inject content through scripting applications, gain access to web server OS
+  - craft zero-pixel **iframe** to avoid visual detection
+  - users visit infected site, browser downloads script through hidden inline frame
+  - script will instruct browser to connect to attackers webserver to download malware
 - Header Manipulation
 - Cookies
 - Attachments
