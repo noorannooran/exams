@@ -121,3 +121,16 @@ Midterm Review
   - with the user's knowledge, malicious payload
   - can infect a file
 
+#### Concealment
+- **rootkit** hide the actions or presence of other types of software
+- e.g. through music cds
+
+#### Payload Capabilities
+- collect data:
+  - Spyware
+  - Adware
+  - Ransomware
+  - keylogger (software or hardware)
+- delete data
+- modify security settings
+- launch attacks
