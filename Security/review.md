@@ -142,3 +142,21 @@ Midterm Review
   - **zombie** infected computer
   - **botnet** collection of zombies
 	- under control of **bot herder**
+
+### Social Engineering
+- gathering information for an attack
+- impersonation
+- phishing
+- spam
+- hoax
+- typo squatting
+- watering hole
+
+#### Social Engineering Tactics
+1. Authority
+- Intimidation
+- Concensus/ social proof
+- Scarcity
+- Urgency
+- Familiarity/ Liking
+- Trust
