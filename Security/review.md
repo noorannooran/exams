@@ -86,3 +86,23 @@ Midterm Review
 - avoid consequences of not securing information
 - maintaining productivity
 - foil cyberterrorism
+
+## Malware & Social Engineering Attacks
+- define malware
+- types of malware
+- payloads of malware
+- types of social engineering psychological attacks
+- social enginerring physical attacks
+
+### Malware
+- software that enters a system without the user's knowledge or consent that performs an unwanted/ harmful action
+
+### Types of Malware
+1. Circulation
+   - spreading rapidly
+2. Infection
+   - infext/ embed self into system
+- Concealment
+  - avoid detection
+- Payload capabilities
+  - stealing password/ getting user data
