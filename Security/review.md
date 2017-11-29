@@ -129,6 +129,7 @@ Midterm Review
 - collect data:
   - Spyware
   - Adware
+	- can track user's activities and send to third parties
   - Ransomware
   - keylogger (software or hardware)
 	- capture keystrokes, capture screen caps
