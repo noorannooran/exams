@@ -237,6 +237,21 @@ Midterm Review
 - the storage buffer contains the **return address**, attacker can overflow the buffer with a new address -> malicious code
 
 ### Networking Based Attacks
+- Denial of Service (DoS) : distributed DoS
+- Ping flood : ICMP requests
+- Smurf attack : ICMP request, hide attacker address
+- SYN flood attack
+  - send SYN segments with modified source address
+- Interception:
+  - Man in the Middle
+	- receives data from devices, passes it on
+	- **passive** : capture, record, sends to the recipient
+	- **active** : contents are captured and altered before sending to the recipient
+  - replay
+- Poisoning
+  - ARP poisoning
+  - DNS poisoning
+- Attacks on access rights
 
 ## Host, Application and Data Security
 
