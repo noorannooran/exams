@@ -227,6 +227,15 @@ Midterm Review
 #### Malicious Add-Ons
 - attacker creates malicious add-ons to launch attacks against the user's computer
 - Java, Adobe Flash Player, Apple QuickTime, Adobe Acrobat Reader
+
+#### Impartial Overflow Attacks
+- target either server or client
+
+##### Buffer overflow attack
+- process attempts to store dtaa in a RAM beyond the boundaries of fixed-length storage buffer
+- dtaa overflows into adjacent memory locations **buffer overflow**
+- the storage buffer contains the **return address**, attacker can overflow the buffer with a new address -> malicious code
+
 ## Host, Application and Data Security
 
 ## Quiz 1 A&A
