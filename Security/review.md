@@ -309,8 +309,11 @@ Midterm Review
 
 #### 3 types of DLP sensors
 1. DLP Network Sensors
+   - installed on perimeter of network : monitor network traffic **in transit**
 - DLP Storage Sensors
+  - installed on network storage devices : protect data **at rest** ensure files on hard drives are encrypted
 - DLP Agent Sensors
+  - installed on each host device: protect data **in use** : watch for actions like printing, copying to USB, burning to CD or DVD
 
 ## Quiz 1 A&A
 
