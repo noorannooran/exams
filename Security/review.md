@@ -189,6 +189,13 @@ Midterm Review
   - inject scripts into a web application server
   - **Solution**: turn off scripting in client browser to reduce risk, also reduces ability to use dynamic websites
 - SQL Injection
+  - targets SQL servers
+  -  malicious commands
+  - **Email Address Unknown**
+	- user input is filtered, SQL attack cannot be applied
+  - **Server Failure**
+	- user input is not filtered, directly sent to database
+  -
 - Directory Transversal
 
 - **zero day attack** exploiting previously unknown vulnerabilities
