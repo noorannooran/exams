@@ -236,6 +236,8 @@ Midterm Review
 - dtaa overflows into adjacent memory locations **buffer overflow**
 - the storage buffer contains the **return address**, attacker can overflow the buffer with a new address -> malicious code
 
+### Networking Based Attacks
+
 ## Host, Application and Data Security
 
 ## Quiz 1 A&A
