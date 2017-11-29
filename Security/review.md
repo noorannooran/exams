@@ -219,10 +219,22 @@ Midterm Review
   - Swiss Cheese
 - What is the type of malware that appears to have a legitimate use but actually contains something malicious
   - Trojan
+- Which of the following is not one of the four methods for classifying the various types of malware?
+	- Source
+- According to the US bureau of labor statistics what percentage of growth is the available job outlook supposed to reach by the end of the decade?
+  - 22%
+- Select the information protection item that ensures information is correct and that no unauthorized person or malicious software has altered that data
+  - Integrity
+- The physical procedure whereby an unauthorized person gains access to a location by following an authorized user is known as?
+  - Tailgating
+- In what kind of attack can attackers make use of hundreds of thousands of computers under their control in an attack agaianst a single server or network?
+	- logical
+	
 ### True or False
 - Spreading similarly to a virus, a worm inserts itself malicious into a program or data file
   - False
 - The demand for certified IT professionals who know how to secure networks and computers is at an all-time low
   - False
-
+- Security is the goal to be free from danger as well as the process that achieves that freedom
+  - True
 	
