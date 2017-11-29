@@ -261,7 +261,7 @@ Midterm Review
   - **transitive access**
 	- System 1 can access System 2, System 2 can access System 3, System 1 can access System 3
 	- Microsoft Active Directory
-	  0 all domains trust each other in two-way transitive trust
+	  - all domains trust each other in two-way transitive trust
 
 ## Host, Application and Data Security
 
