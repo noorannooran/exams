@@ -266,7 +266,11 @@ Midterm Review
 #### Summary
 > Networks = high priority, single vulnerability = thousands of devices
 
+
 ## Host, Application and Data Security
+- list steps for securing a host computer
+- define application security
+- explain how to secure data
 
 ## Quiz 1 A&A
 
