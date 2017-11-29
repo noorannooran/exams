@@ -177,6 +177,15 @@ Midterm Review
   - authorized person opens the door, anyone can follow
 - Shoulder surfing
 
+## Application and Networking-Based Attacks
+- list and explain the different types of server-side web application attacks
+- define client-side attacks
+- explain how overflow attacks work
+- list different types of networking based attacks
+
+
+## Host, Application and Data Security
+
 ## Quiz 1 A&A
 
 1. What type of malware is heavily dependent on a user in order to spread?
@@ -184,7 +193,7 @@ Midterm Review
 -  What term is used to describe a means of gathering information for an attack by relying on the weakness of individuals?
    - social enginerring
 - WHat is the term used to describe unsoclicited messages received on instant messaging software?
-  - 
+  - spam? **incorrect?**
 - Select the term for individuals who want to attack computers yet lack the knowledge of computers and networks needed to do so
   - Script Kiddies
 
