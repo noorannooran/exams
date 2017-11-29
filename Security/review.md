@@ -171,3 +171,8 @@ Midterm Review
 - Familiarity/ Liking
 - Trust
 
+#### Physical Social Engineering Tactics
+1. Dumpster diving
+- Tailgating
+  - authorized person opens the door, anyone can follow
+- Shoulder surfing
