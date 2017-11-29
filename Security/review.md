@@ -183,6 +183,8 @@ Midterm Review
 - explain how overflow attacks work
 - list different types of networking based attacks
 
+### Server Side Web Application Attacks
+- **zero day attack** exploiting previously unknown vulnerabilities
 
 ## Host, Application and Data Security
 
