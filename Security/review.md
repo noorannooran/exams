@@ -152,6 +152,8 @@ Midterm Review
   - whaling: e.g. CEOs
   - vishing: telephone call
 - spam
+  - unsolicited emails
+  - image spam cannot be filtered
 - hoax
 - typo squatting
 - watering hole
