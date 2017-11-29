@@ -155,7 +155,9 @@ Midterm Review
   - unsolicited emails
   - image spam cannot be filtered
 - hoax
+  - false warning e.g. from IT department
 - typo squatting
+  - near- URLS e.g. goggle.com
 - watering hole
 
 #### Social Engineering Tactics
