@@ -255,6 +255,11 @@ Midterm Review
   - DNS poisoning
 	- substitute DNS address (**IP address**), auto redirected to another devlice 
 - Attacks on access rights
+  - privilges to access hardware and software
+  - **privilege escalation**
+	- exploit a vulnerability to gain access to resources
+  - **transitive access**
+	- System 1 can access System 2, System 2 can access System 3, System 1 can access System 3
 
 ## Host, Application and Data Security
 
