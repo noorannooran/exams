@@ -143,10 +143,14 @@ Midterm Review
   - **botnet** collection of zombies
 	- under control of **bot herder**
 
-### Social Engineering
+### Social Engineering Psychological Approaches
 - gathering information for an attack
 - impersonation
-- phishing
+- phishing:
+  - pharming: redirects user to fake site
+  - spear phishing: specific users
+  - whaling: e.g. CEOs
+  - vishing: telephone call
 - spam
 - hoax
 - typo squatting
@@ -160,3 +164,4 @@ Midterm Review
 - Urgency
 - Familiarity/ Liking
 - Trust
+
