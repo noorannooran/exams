@@ -198,8 +198,16 @@ Midterm Review
 - Directory Transversal
   - uses malformed input
   - move from root dir to restricted directories
+> **zero day attack** exploiting previously unknown vulnerabilities
 
-- **zero day attack** exploiting previously unknown vulnerabilities
+### Client Side Application Attacks
+>  target vulnerabilities in client applications that interact with compromised server
+- Drive By Download
+- Header Manipulation
+- Cookies
+- Attachments
+- Session hijacking
+- Malicious Add-Ons
 
 ## Host, Application and Data Security
 
