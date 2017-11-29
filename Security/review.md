@@ -248,9 +248,12 @@ Midterm Review
 	- **passive** : capture, record, sends to the recipient
 	- **active** : contents are captured and altered before sending to the recipient
   - replay
+	- copy of transmission before sending to the recipient, then used later
 - Poisoning
   - ARP poisoning
+	- modify **MAC** addresses in ARP cahce so the IP address points to a different computer
   - DNS poisoning
+	- substitute DNS address (**IP address**), auto redirected to another devlice 
 - Attacks on access rights
 
 ## Host, Application and Data Security
