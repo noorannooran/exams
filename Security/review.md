@@ -383,7 +383,10 @@ Midterm Review
   - multiple rounds dependent on key size:
 	- 128 : 9 rounds
 	- 192 : 11 rounds
-	- 256 : 13 rounds
+	- 256 : 13 rounds **aka AES-256**
+- bytes are substituted and rearranged, multiplication performed based on arrangement
+- **still secure**: no successful attacks on AES
+
 
 ## Quiz 1 A&A
 
