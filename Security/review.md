@@ -402,6 +402,7 @@ Midterm Review
   - **public key** : known to everyone - used to encrypt message
   - **private key** : known only to the individual - used to decrypt message
 - called **public key cryptography**
+- can work in both directions
 
 
 
