@@ -459,6 +459,15 @@ Midterm Review
   - can be remotely disabled
 - Hard disk drive encryption
   - can perform a **cryptographic erase** on specific data
+- TPM Trusted Platform Module
+  - provides cryptographic services; on the motherboard
+  - random number generator
+  > pseudo random generator  is PRNG
+- Suite B : NSA approved set of cryptographic algorithms
+  - AES 128 or 256
+  - signatures with ECC e56 and 384 bit numbers
+  - key exchange : ECDHE
+  - hashing: SHA-2
 
 
 
