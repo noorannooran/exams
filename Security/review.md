@@ -413,9 +413,7 @@ Midterm Review
 - most common
 - stands for last names of developers Rivest, Shamir, Adleman
 - slower than other algorithms:
-  - DES : approx
-
-
+  - DES : approx 100x faster in software; 10000x faster in hardware
 
 
 ## Quiz 1 A&A
