@@ -365,12 +365,26 @@ Midterm Review
 - aka **private key cryptography**
 - uses same key to encrypt and decrypt
 - keys should be kept private
-- **DES** Data Encryption Standard
-  - one of first widely popular symmetric cryptography algorithms
-  - 56 bit key length
-  - block cipher
-  - divides plaintext into 64-bit blocks, exe DES algorithm 16 times
-  - **56-bit key is no longer secure**
+
+#### **DES** Data Encryption Standard
+- one of first widely popular symmetric cryptography algorithms
+- 56 bit key length
+- block cipher
+- divides plaintext into 64-bit blocks, exe DES algorithm 16 times
+- **56-bit key is no longer secure**
+
+#### 3DES (Triple Data Encryption Standard)
+- hardware performance > software performance
+- addresses several key weaknesses of DES
+- no longer considered secure
+
+#### AES : Advanced Encryption Standard
+- 3 steps on every block (128 bits) of text
+  - multiple rounds dependent on key size:
+	- 128 : 9 rounds
+	- 192 : 11 rounds
+	- 256 : 13 rounds
+
 ## Quiz 1 A&A
 
 1. What type of malware is heavily dependent on a user in order to spread?
