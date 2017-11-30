@@ -360,6 +360,9 @@ Midterm Review
 	 - Secure
    - examples: MD5, SHA-1, SHA-2, (SHA-224, SHA-256, SHA-512)
    - **whirlpool**: a *digest* of 512 bits
+   
+### Symmetric Cryptographic Algorithms
+
 ## Quiz 1 A&A
 
 1. What type of malware is heavily dependent on a user in order to spread?
