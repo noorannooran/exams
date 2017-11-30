@@ -394,6 +394,10 @@ Midterm Review
   - combined with plaintext = **ciphertext**
 - in order to decrypt, recipient must have copy of the pad
 - used once, then destroyed
+- **unbreakable**
+
+### Asymmetric Cryptographic Algorithms
+
 
 ## Quiz 1 A&A
 
