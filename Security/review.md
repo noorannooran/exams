@@ -439,6 +439,12 @@ Midterm Review
 - ECDH Elliptic Curve Diffie-Hellman - uses elliptic curve
 - Perfect Forward Secrecy - public key systems that generate random public keys different each session
   - if compromised, can only reveal contents of one message
+  
+### Encryption through software
+- File and file system cryptography
+  - using OS's file system
+- PGP/GPG Pretty Good Privacy/ Gnu Privacy Guard
+
 
 
 
