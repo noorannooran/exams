@@ -399,8 +399,8 @@ Midterm Review
 
 ### Asymmetric Cryptographic Algorithms
 - uses 2 keys instead of 1
-  - **public key** : known to everyone
-  - **private key** : known only to the individual 
+  - **public key** : known to everyone - used to encrypt message
+  - **private key** : known only to the individual - used to decrypt message
 - called **public key cryptography**
 
 
