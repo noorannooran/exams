@@ -387,6 +387,13 @@ Midterm Review
 - bytes are substituted and rearranged, multiplication performed based on arrangement
 - **still secure**: no successful attacks on AES
 
+#### One TIme Pad (OTP)
+- plaintext + random key
+- cannot be broken mathematically; does not require use of the computer
+- **pad**: long sequence of random letters
+  - combined with plaintext = **ciphertext**
+- in order to decrypt, recipient must have copy of the pad
+- used once, then destroyed
 
 ## Quiz 1 A&A
 
