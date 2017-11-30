@@ -425,6 +425,9 @@ Midterm Review
 #### Quantum Cryptography
 - behaviour of microscopic objects
 - quantum computing <> quantum cryptography
+  - e.g. observing photons randomly for polarizations,
+	- records the polarization, sends to other person,
+	  - other person records, sends measurements, person A confirms which are correct which are converted into a string of bits that forms their secret key
 
 
 
