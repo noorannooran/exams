@@ -348,6 +348,9 @@ Midterm Review
    - considered more secure; output is more random
 3. Sponge Function
    - takes input a string of any length, returns a string of any requested variable length
+4. Hash Algorithm
+   - creates a **digital fingerprint** AKA *digest* of a set of data
+   - aka "Hashing"
 ## Quiz 1 A&A
 
 1. What type of malware is heavily dependent on a user in order to spread?
