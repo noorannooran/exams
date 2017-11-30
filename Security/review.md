@@ -468,6 +468,7 @@ Midterm Review
   - signatures with ECC e56 and 384 bit numbers
   - key exchange : ECDHE
   - hashing: SHA-2
+  - not released to public
 
 
 
