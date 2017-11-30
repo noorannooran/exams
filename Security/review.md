@@ -320,6 +320,17 @@ Midterm Review
 > Hardware security: physical security: protect the hardware of the host system
 > One means of securing data is through data loss prevention DLP
 
+## Cryptography
+- define cryptography
+- describe hash, symmetric, asymmetric cryptographic algorithms
+- list the ways in which cryptography is used
+
+### Definitions
+> **cryptography**: scrambling of data so it cannot be read
+> science of transforming information into secure form
+> **stenography**: hides existence of data
+> **cryptographic algorithm**: procedures based on a mathematical formula used to encrypt and decrypt data
+
 ## Quiz 1 A&A
 
 1. What type of malware is heavily dependent on a user in order to spread?
