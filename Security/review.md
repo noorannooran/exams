@@ -362,7 +362,15 @@ Midterm Review
    - **whirlpool**: a *digest* of 512 bits
    
 ### Symmetric Cryptographic Algorithms
-
+- aka **private key cryptography**
+- uses same key to encrypt and decrypt
+- keys should be kept private
+- **DES** Data Encryption Standard
+  - one of first widely popular symmetric cryptography algorithms
+  - 56 bit key length
+  - block cipher
+  - divides plaintext into 64-bit blocks, exe DES algorithm 16 times
+  - **56-bit key is no longer secure**
 ## Quiz 1 A&A
 
 1. What type of malware is heavily dependent on a user in order to spread?
