@@ -444,7 +444,7 @@ Midterm Review
 - File and file system cryptography
   - using OS's file system
 - PGP/GPG Pretty Good Privacy/ Gnu Privacy Guard
-
+  - use both symmetric and asymmetric cryptography
 
 
 
