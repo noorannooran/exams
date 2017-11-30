@@ -342,6 +342,7 @@ Midterm Review
 1. Stream Cipher
    - substitution cipher; substitutes one letter for another
    - fast when plaintext is short; consumes more overhead if plaintext is long
+   - more prone to attack; engine that generates stream does not vary
 2. Block Cipher
    - takes a block of plaintext
    - considered more secure; output is more random
