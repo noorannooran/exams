@@ -331,6 +331,14 @@ Midterm Review
 > **stenography**: hides existence of data
 > **cryptographic algorithm**: procedures based on a mathematical formula used to encrypt and decrypt data
 
+### Cryptography and Security:
+- **Confidentiality**: encrypted information can only be viewed by those provided the key
+- **Integrity**: encrypted information cannot be changed except by authorized users that have the key
+- **Availability**: authorized users are provided the decryption key to access the information
+- **Authentication**: proof that the sender was legitimate and not an imposter can be obtained
+- **Non-repudiation**: individuals are prevented from fraudulently denying their involvement in a transaction
+
+
 ## Quiz 1 A&A
 
 1. What type of malware is heavily dependent on a user in order to spread?
