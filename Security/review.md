@@ -407,6 +407,14 @@ Midterm Review
   - verify sender
   - prevent sender from disowning message
   - prove integrity of message
+- use digital signature + public key encryption
+
+#### RSA 
+- most common
+- stands for last names of developers Rivest, Shamir, Adleman
+- slower than other algorithms:
+  - DES : approx
+
 
 
 
