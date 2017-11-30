@@ -414,6 +414,18 @@ Midterm Review
 - stands for last names of developers Rivest, Shamir, Adleman
 - slower than other algorithms:
   - DES : approx 100x faster in software; 10000x faster in hardware
+- uses prime numbers
+
+#### ECC
+- uses sloping curves
+- elliptic curve
+- alternative for prime-number for **mobile and wireless**
+  - smaller key sizes
+  
+#### Quantum Cryptography
+- behaviour of microscopic objects
+- quantum computing <> quantum cryptography
+
 
 
 ## Quiz 1 A&A
