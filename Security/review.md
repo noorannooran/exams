@@ -428,6 +428,18 @@ Midterm Review
   - e.g. observing photons randomly for polarizations,
 	- records the polarization, sends to other person,
 	  - other person records, sends measurements, person A confirms which are correct which are converted into a string of bits that forms their secret key
+	  
+### Key Exchange
+> problem: exchanging symmetric private ey
+> **Out of band communication** separate means of communications
+
+#### Solutions:
+- DH Diffier Hellman: requires both parties to agree on a large prime number and related integer, both separately create the same key
+- DHE Diffie-Hellman Ephermeral - uses different keys; keys are **temporary**, used once and discarded
+- ECDH Elliptic Curve Diffie-Hellman - uses elliptic curve
+- Perfect Forward Secrecy - public key systems that generate random public keys different each session
+  - if compromised, can only reveal contents of one message
+
 
 
 
