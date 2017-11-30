@@ -398,6 +398,10 @@ Midterm Review
 - **unbreakable**
 
 ### Asymmetric Cryptographic Algorithms
+- uses 2 keys instead of 1
+  - **public key** : known to everyone
+  - **private key** : known only to the individual 
+- called **public key cryptography**
 
 
 
