@@ -403,6 +403,10 @@ Midterm Review
   - **private key** : known only to the individual - used to decrypt message
 - called **public key cryptography**
 - can work in both directions
+- use **Digital Signatures** : electronic verification of the sender:
+  - verify sender
+  - prevent sender from disowning message
+  - prove integrity of message
 
 
 
