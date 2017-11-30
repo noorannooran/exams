@@ -362,6 +362,7 @@ Midterm Review
    - **whirlpool**: a *digest* of 512 bits
    
 ### Symmetric Cryptographic Algorithms
+> primary weakness: distributing and maintaining a secure single key among multiple users, scattered geographically
 - aka **private key cryptography**
 - uses same key to encrypt and decrypt
 - keys should be kept private
@@ -397,6 +398,7 @@ Midterm Review
 - **unbreakable**
 
 ### Asymmetric Cryptographic Algorithms
+
 
 
 ## Quiz 1 A&A
