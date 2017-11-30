@@ -445,7 +445,18 @@ Midterm Review
   - using OS's file system
 - PGP/GPG Pretty Good Privacy/ Gnu Privacy Guard
   - use both symmetric and asymmetric cryptography
+  - used for protecting digital signatures and 3DES or IDEA (GPG doesnt use IDEA- patent)
+- Windows Encryption: can set in Advanced Attributes of file, storing the file in an encrypted folder, using Cipher.exe
+- Whole Disk Encryption Cryptography: entire disks
+- BitLocker drive encryption
 
+### Software Encryption
+- USB device encryption
+  - all data is auto-encrypted
+  - requires password before connecting
+  - tamper-resistent cases
+  - remotely track and control activity on devices
+  - can be remotely disabled
 
 
 
