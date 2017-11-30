@@ -457,6 +457,8 @@ Midterm Review
   - tamper-resistent cases
   - remotely track and control activity on devices
   - can be remotely disabled
+- Hard disk drive encryption
+  - can perform a **cryptographic erase** on specific data
 
 
 
