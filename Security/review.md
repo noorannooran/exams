@@ -338,7 +338,15 @@ Midterm Review
 - **Authentication**: proof that the sender was legitimate and not an imposter can be obtained
 - **Non-repudiation**: individuals are prevented from fraudulently denying their involvement in a transaction
 
-
+### Algorithms
+1. Stream Cipher
+   - substitution cipher; substitutes one letter for another
+   - fast when plaintext is short; consumes more overhead if plaintext is long
+2. Block Cipher
+   - takes a block of plaintext
+   - considered more secure; output is more random
+3. Sponge Function
+   - takes input a string of any length, returns a string of any requested variable length
 ## Quiz 1 A&A
 
 1. What type of malware is heavily dependent on a user in order to spread?
