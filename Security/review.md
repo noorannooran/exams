@@ -630,7 +630,13 @@ Midterm Review
 - enhanced security features
 
 ## Network Administration Principles
-
+- Procedural rules
+  - authoritative, direction for conduct
+- Technical Rules
+  - dictated by procedural rules
+  - e.g. configuring a firewall
+- rule-based managerment approach:
+  - following rules that addreess security, analyzing and monitoring logs, network design management, port security
 # Chapter 11 : Access Control Fundamentals
 ## Terminology
 - *Identification*:
