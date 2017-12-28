@@ -702,6 +702,24 @@ Midterm Review
 - reduced regulatory requirements
 - increased user productivity
 
+#### IP Telephony Attacks
+- OS : softphones operating on standard PCs
+- VoIP protocols: inadequate authentication, integrity protection, confidentiality
+- Network acknowledgement: flood VoiP with DoS attacks
+- Spam
+
+### Virtualization
+- multiple physical storage devices can be viewed as a single unit
+- *Host Virtualization*
+  - virtual machine is created
+  - runs a **hypervisor** that manages VM OS
+  - supports one or more **guest systems**
+
+#### Advantages
+- host availability
+- host elasticity
+- reduce costs
+- uninterrupted server access
 
 # Chapter 11 : Access Control Fundamentals
 ## Terminology
