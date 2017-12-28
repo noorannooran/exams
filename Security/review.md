@@ -605,7 +605,16 @@ Midterm Review
 	- software based
 	- unauthorized zone members can see restricted data
 
-adventure castle in the clouds in the sky top floor
+#### NetBIOS
+- transport protocol used by Windows to allow applications on different devies to communicate over a LAN
+  - NetBIOS over TCP/IP (NBT protocol)
+- attacker can get:
+  - computer names
+  - contents of remote cache
+  - list of local NetBIOS names
+  - list of unresolved names
+- recommended disabled or used only if necessary
+
 # Chapter 11 : Access Control Fundamentals
 ## Terminology
 - *Identification*:
