@@ -669,6 +669,39 @@ Midterm Review
 - multiple devices generating logs
 - large volume of data
 - different log formats
+- use a centralized device log analyzer
+
+## Network Design Management
+### Network Separation
+- seperate secure from unsecure parts
+- e.g. "air gap"
+
+### Loop Protection
+- switching loop can cause a broadcast storm
+- broadcast storm prevented with loop protection
+  - Spanning Tree Algorithm STA
+	- determine switch has multiple ways to communicate, determine best path while blocking others
+
+### VLAN management
+- virtual LAN
+- configure empty switch ports to connect to unused VLAN
+- change default VLAN names
+- confifure ports on the switch that pass packets to explicitly forward specific tags
+- configure VLANS so that public devices are not on a private VLAN
+
+### Port Security
+- disable unused interfaces
+- using MAC limiting and filtering
+- IEEE 802.1x
+
+### IP Telephony
+- cost savings
+- simplified management
+- application development
+- reduced infrastructure requirements
+- reduced regulatory requirements
+- increased user productivity
+
 
 # Chapter 11 : Access Control Fundamentals
 ## Terminology
