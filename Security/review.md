@@ -512,7 +512,41 @@ Midterm Review
 - risk: decisions of the end-user to set level of security
 - inheritance: subjects permissions inherited by any programs executed
   - e.g. Malware could use subject's permissions
+- can automatically reduce user's privilege level 
+
 ### Mandatory Access Control (MAC)
+- most restrictive
+- assigns user's controls according to the custodian
+- user has no freedom to set controls
+- used in military settings
+- match object labels with subject labels
+  - can have equal or greater in order to access the subject
+
+#### Elements
+1. Labels
+   - classification labels
+	 - e.g. confidential, secret, top secret
+   - privilege labels
+	 - e.g. clearance
+2. Levels
+   - top secret > secret > confidential
+
+#### Implementations
+1. Lattice model
+   - different "rungs" have different security levels
+   - subjects are assigned a rung, as well as objects
+2. Bell-La Padula (BLP) model
+   - additional restriction
+   - prevents subjects from creating a new object, performing functions on objects lower than their own
+   - variation: Biba Integrity Model
+	 - protect data integrity
+3. Manadatory Integrity Control (MIC)
+   - windows uses
+   - controls access to securable objects
+   - uses SID : security identifier
+   - links SID to integrity level
+   - *User Account Control*
+	 - must enter administrative password before installing software
 ### Role Based Access Control (RBAC)
 ### Rule Based Access Control (RBAC)
 
