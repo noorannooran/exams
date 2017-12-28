@@ -637,6 +637,39 @@ Midterm Review
   - e.g. configuring a firewall
 - rule-based managerment approach:
   - following rules that addreess security, analyzing and monitoring logs, network design management, port security
+
+### Device Security: Routers
+- create a network design
+- use meaningful router name
+- secure all ports
+- set a strong admin password
+- make changes from the console and not remotely
+
+### Attacks
+- DoS : use a Flood Guard
+  - controls a device's tolerance for unanswered service requests
+  - helps prevent a DoS atttack
+  - max number of developing connections device can tolerate
+
+#### Monitoring and Analyzing Logs
+- seucrity access log
+  - reveal requests for files
+- audit log
+  - record which user performed an action
+- event logs
+  - unsuccessful events
+- firewall log
+  - IP addresses rejected and dropped
+  - probes to ports that have no application services running
+  - source-routed packets: packets that originate outside the network
+  - suspicious outbound connections
+  - unsuccesful logins
+
+### Log Management Issues
+- multiple devices generating logs
+- large volume of data
+- different log formats
+
 # Chapter 11 : Access Control Fundamentals
 ## Terminology
 - *Identification*:
