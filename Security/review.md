@@ -609,6 +609,69 @@ Midterm Review
 - time of day
   - when a user can log in
 - account expiration
+  - *orphaned account* remain active after user has left
+  - *dormant account* one that has not been accessed
+  - security risks; therefore account expiration
+
+## Authentication Services
+- AAA Authentication, Authorization, Accounting Server
+- or authentication server
+
+### Common AAA Servers
+- RADIUS
+  - industry standard
+  - messages never directly sent between device and server
+- Kerberos
+  - authentication system
+- Terminal Access Control Access Control System
+  - forward username and password to a centralized server
+- LDAP Lightweight Directory Access Protocol
+  - directory service: database stored on netowrk 
+- SAML Security Assertion Markup Language
+  - XML standard that allows web domains to exchange authentication and authorization data with each other
+  
+## Review Questions
+1. What is the current version of TACACS?
+   - TACACAS+
+2. How is SAML used?
+   - b. Allows secure web domains to exchange user authentication and authorization data
+3. A RADIUS authentication server requires that the ___ be authenticated first
+   - supplicant
+4. Which of these is NOT part of the makeup of the AAA elements in network security?
+   - d. determining user need
+5. With the development of IEEE 802.1x port security the __ authentication server has seen even greater usage
+   - a. RADIUS
+6. WHich authentication protocol is available as a free download that runs on Microsoft Windows, Apple Mac OS X and Linux?
+   - d. Kerberos
+7. What is the version of the X.500 standard that runs on a personal computer over TCP/IP?
+   - d. LDAP
+8. A user entering her username would correspond to the __ action in access control?
+   - b. identification
+9. A process functioning on behalf of the user who attemps to access a file is known as a(n) ____
+   - c. subject
+10. What is the name given to the individuals who periodically reviews security settings and maintains records of access by users?
+	- b. custodian
+11. In the __ model, the end- user cannot change any security settings
+	- d. Mandatory Access Control
+12. Which statement about Rule Based Access Control is true?
+	- a. It requires that a custodian set all rules
+13. ___ in access control means that if a condition is not explicitly met, then access is to be rejected
+	- c. Implicit Deny
+14. Which of these is a set of permissions that is attached to an object?
+	- a. Access Control List
+15. Which Microsoft Windows feature provides centralized management and configuration of computers and remote users who are using Active Directory?
+	- c. Group Policy
+16. An ___ constructs LDAP statements based on user inputs in order to retrieve information from the database or modify its contents
+	- d. LDAP injection attack
+17. What is the least restrictive access control Model?
+	- a. Discretionary Access Control
+18. The principle known as ___ in access control menas that each user should be given only the minimal amount of privileges necessary for that person to perform his job function
+	- c. least privilege
+19. An ___ is the person who is responsible for the information, determines the level of security needed for the data, and delegated security duties as needed
+	- a. owner
+20. In the MAC model every subject and object ____
+	- c. is assigned a label
+
 
 ## Quiz 1 A&A
 
