@@ -579,6 +579,10 @@ Midterm Review
   - entire protocol of itself
   - single TCP port
   - encrupts and compresses all data and commands
+- Secure Copy Protocol (SCP)
+  - encrypts files and commands
+  - file transfer cannot be interrupted and resumed
+  - UNIX and Linux platforms
 
 
 adventure castle in the clouds in the sky top floor
