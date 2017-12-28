@@ -583,7 +583,27 @@ Midterm Review
   - encrypts files and commands
   - file transfer cannot be interrupted and resumed
   - UNIX and Linux platforms
-
+  
+### Storage Protocols
+- SAN Storage Area Network
+  - deticated network storage facility
+- Protocols
+- isCSI Internet Small Computer System Interface
+  - IP based
+  - transmit data over LANs, WANS, Internet
+- FibreChannel FC
+  - high speed storage network protocol
+  - 16 GB per second
+- Fibre Channel Over Ethernat FCoE
+  - use fast Ethernet networks
+  
+#### Fibre Channel
+- FC Zones
+  - hard zone:
+	- all members id by physical port number
+  - soft zone:
+	- software based
+	- unauthorized zone members can see restricted data
 
 adventure castle in the clouds in the sky top floor
 # Chapter 11 : Access Control Fundamentals
