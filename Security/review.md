@@ -554,6 +554,31 @@ Midterm Review
   - Trivial File Transfer Protocol (TFTP)
   - uses less memory, limited functionality
   - used for transfer of config files between devices
+- Command Prompt
+- Web Browser
+- FTP client
+
+> active mode: client opens a command channel connection
+- firewall can see data channel connection as unsolicites
+- PORT command
+> passive mode: client initiates the data channel connection
+- PASV command
+- server responds with TCP port number
+
+#### Vulnerabiltiies
+- cleartext not encryption
+- vulnerable to man in the middle attacks
+
+### Secure Transmissions over FTP
+- FTPS FTP Secure
+  - SSL Secure Sockets Layer
+  - TLS Transport Layer Security
+  - encrypts commands sent over control port
+  - the data port may or may not be encrypted
+- Secure FTP SFTP
+  - entire protocol of itself
+  - single TCP port
+  - encrupts and compresses all data and commands
 
 
 adventure castle in the clouds in the sky top floor
