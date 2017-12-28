@@ -615,6 +615,22 @@ Midterm Review
   - list of unresolved names
 - recommended disabled or used only if necessary
 
+#### Telnet
+- text-based communication
+- application
+- terminal emulation program that connects to a server
+
+##### Vulnerabilities
+- data unencrypted
+- passwords can be discovered
+- use SSH instead of TelNet
+
+### IPV6
+- 64 bits instead of 32
+- enhanced security features
+
+## Network Administration Principles
+
 # Chapter 11 : Access Control Fundamentals
 ## Terminology
 - *Identification*:
