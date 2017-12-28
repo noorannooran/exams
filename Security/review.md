@@ -547,7 +547,12 @@ Midterm Review
    - links SID to integrity level
    - *User Account Control*
 	 - must enter administrative password before installing software
+	 
 ### Role Based Access Control (RBAC)
+- Non Discretionalu Access Control
+- "Real worl"
+- based on user's job function in an organization
+- permission is given to roles, users are assigned roles
 ### Rule Based Access Control (RBAC)
 
 
