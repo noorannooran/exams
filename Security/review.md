@@ -516,6 +516,45 @@ Midterm Review
 - Ping of Death
   - exceeds size of IP packet
   - causes host to crash
+  
+### SNMP
+- allows admins to remotely monitor, manager, configure devices on a network
+- agent or service that listens for commands
+- **community string** password
+  - read-only
+  - read-write
+
+#### Vulnerabilities SNMPv1 &2
+- public and private community strings
+- default strings unchanged = vulnerability
+- strings transmitted as cleartext
+
+### DNS
+- maps symbolic name with IP address
+- distributed among different servers
+
+#### DNS Attacks
+- DNS Poisoning
+  - substitutes addresses
+  - computer is redirected to a fraudulent IP address
+  - prevented by using *BIND* Berkeley Internet Name DOmain
+	- ignore DNS records not relevant to query
+	- DNSSEC Domain Name System Security Extensions
+	- allows to be digitally signed
+- DNS Transfer
+  - asks valid DNS server for a zone transfer
+  - map internal netowrk
+
+### FTP
+- FTP
+- SCP Secure Copy Protocol
+
+#### FTP
+- connect to FTP server
+  - Trivial File Transfer Protocol (TFTP)
+  - uses less memory, limited functionality
+  - used for transfer of config files between devices
+
 
 adventure castle in the clouds in the sky top floor
 # Chapter 11 : Access Control Fundamentals
