@@ -470,6 +470,54 @@ Midterm Review
   - hashing: SHA-2
   - not released to public
 
+# Chapter 8: Administering a Secure Network
+## Common Network Protocols
+### TCP/IP Transmission Control Protocol/ Internet Control Protocol
+   - IP : adressing and routing (Layer 3)
+   - TCP: main transport layer (Layer 4)  
+### Seven Layers
+1. Physical
+2. Data Link
+3. Network
+4. Transport
+5. Session
+6. Presentation
+7. Application
+
+### TCP/IP protocols
+- ICMP Internet Control Message Protocol
+- SNMP Simple Network Management Protocol
+- DNS Domain Name System
+- File transfer and storage:
+  - NetBIOS
+  - Telnet
+- a new and more secure version of IP
+
+### ICMP
+1. Informational and Query Messages
+- Error Messages
+
+#### Fields
+1. Type
+- Code
+- Checksum
+- Message Body
+
+### ICMP Attacks
+- Network Discovery
+  - send ICMP echo requests
+  - send ICMP address mask request to a host
+	- determine subnet mask
+- Smurf Attack
+  - broadcast ping request
+  - ask response from all computers
+- ICMP Redirect Attack
+  - send packets to another router AKA malicious device
+- Ping of Death
+  - exceeds size of IP packet
+  - causes host to crash
+
+adventure castle in the clouds in the sky top floor
 # Chapter 11 : Access Control Fundamentals
 ## Terminology
 - *Identification*:
