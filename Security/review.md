@@ -553,8 +553,62 @@ Midterm Review
 - "Real worl"
 - based on user's job function in an organization
 - permission is given to roles, users are assigned roles
-### Rule Based Access Control (RBAC)
 
+### Rule Based Access Control (RBAC)
+- **automated provisioning**
+- dynamically assigned roles to subjects based on rules defined by adminadventure castle in the clouds in the sky top floor
+
+## Best Practices
+1. Separation of Duties
+   - users with too many responsibilities
+   - don't give any one person total control
+2. Job Rotation
+   - individuals moved from responsibilites
+   - limit the time ind. are in a position to manipulate security
+   - expose avenues for fraud
+   - reduce burnout
+3. Least Privilege
+   - limiting access to what user needs to complete tasks
+4. Implicit Deny
+   - if condition is not explicity met, access is r
+5. Mandatory Vacations
+   - audit while away
+
+## Access COntrol List
+- set of permissions attached to an object
+- who is allowed to access
+- what operations they can perform
+
+## Access Control Entry
+- each entry in the ACL Table
+
+### Four Items
+- SID
+- Access Mask
+  - rights allowed and denied
+- Flag
+  - what permissions are granted?
+- set of flags
+  - inherit permissions?
+  
+### ACL Limitiations
+- inefficient
+- difficult to manage in enterprise setting
+
+
+### Group Policy
+- Microsoft Windows Feature
+- stored in Group Plicy Objects
+  - linked to domains, websites
+- can update many users by updating Group policy Object
+
+#### Local Group policy
+- used to configure settings not a part of Active Directory
+
+### Account Restrictions
+- time of day
+  - when a user can log in
+- account expiration
 
 ## Quiz 1 A&A
 
