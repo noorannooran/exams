@@ -471,6 +471,15 @@ Midterm Review
   - not released to public
 
 # Chapter 11 : Access Control Fundamentals
+## Terminology
+- *Identification*:
+  - e.g. a user logging in with username
+- *Authentication*:
+  - e.g. checking the user's credentials (password)
+- *Authorization*:
+  - granting permission to take the acton (e.g. logging in)
+- *Access*:
+  - right given to access specific resources (e.g. files, applications)
 
 ## Quiz 1 A&A
 
