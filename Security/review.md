@@ -480,6 +480,42 @@ Midterm Review
   - granting permission to take the acton (e.g. logging in)
 - *Access*:
   - right given to access specific resources (e.g. files, applications)
+- *Object*:
+  - specific resource ie. file or device
+- *Subject*:
+  - user or process trying to access an object
+- *Operation*:
+  - action taken by the subject over the object e.g. deleting a file
+
+### Roles of Individuals
+- *Owner*:
+  - responsible for the information
+  - determines level of security needed
+- *Custodian*:
+  - day to day activities have been assigned to
+  - reviews security settings, maintains record of access
+  - AKA administrator
+- *End-User*:
+  - accesses information in the course of routine job responsibilities
+  - follows org. security guidelines
+  
+## Access Control Models
+- framework for controlling access
+
+### Discretionary Access Control (DAC)
+- least restrictive
+- every object has an owner
+- owners can create and access, and give permissions
+- used on UNIX and Windows
+
+#### Weaknesses
+- risk: decisions of the end-user to set level of security
+- inheritance: subjects permissions inherited by any programs executed
+  - e.g. Malware could use subject's permissions
+### Mandatory Access Control (MAC)
+### Role Based Access Control (RBAC)
+### Rule Based Access Control (RBAC)
+
 
 ## Quiz 1 A&A
 
