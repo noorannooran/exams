@@ -500,6 +500,38 @@ Midterm Review
 7. Application layer
    - user interface
 
+## Switches
+- work like hubs except can read MAC addresses
+- Unicast - send to one
+- Broadcast - send to all
+
+### Monitoring Traffic on Switches
+1. Port mirroring
+   - copy traffic to a monitoring port
+2. Network Tap (Test Access Point)
+   - device installed on the network
+   
+### Switch Attack and Defense
+1. Mac Flooding
+   - overflow switch address table with fake MAC addresses
+   - use a switch that can close ports with too many MAC addresses
+2. MAC address impersonation
+   - configure only one port to each MAC address
+3. ARP poisoning
+   - forged ARP packet
+   - use ARP detection appliance
+4. Port mirroring
+   - connect device to mirror port
+   - secure switch in locked room
+5. Network tap
+   - tap is connected to intercept frames
+   - restrict physical access
+   
+## Routers
+- Network Layer 3
+- forward packets across networks
+- can filter specific types of network traffic
+
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
 ### TCP/IP Transmission Control Protocol/ Internet Control Protocol
