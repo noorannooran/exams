@@ -648,6 +648,17 @@ Midterm Review
 	  - creates a difgest of packer header
 - Remote access uses IPsec or L2tP Layer2 Tunneling Protocol
 
+### Software vs Hardware
+- Software: on mobile devices gen.
+  - flexibility
+  - worse performance/ security
+- Hardware: site-to-site gen.
+  - more security
+  - better performance
+  - more flexibility
+  - only network device manages VPN functions
+  - used for collecting two LANs through a VPN tunnel
+
 
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
