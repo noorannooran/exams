@@ -659,6 +659,8 @@ Midterm Review
   - only network device manages VPN functions
   - used for collecting two LANs through a VPN tunnel
 
+## Internet Content Filters
+
 
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
