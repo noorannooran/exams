@@ -552,6 +552,17 @@ Midterm Review
 - hide HTTP error pages, remove server identification headers
 - hide internal network information
 
+## Proxies
+- act as substitutes for the primary device
+- client connects first to proxy server, checks cache, connects to external web server and requests the service, then forwarded to the client
+- **application-aware proxy** : *knows* the application protocols it supports
+
+### Advantages
+- increased speed
+- reduced costs
+- improved management
+- stronger security
+
 ###
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
