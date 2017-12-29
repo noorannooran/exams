@@ -734,7 +734,7 @@ Midterm Review
    - resource-intensive
 - Network Intrusion Detection System (NIDS)
   - watches for attacks on the network
-  
+  - gather information and report back to a central device
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
 ### TCP/IP Transmission Control Protocol/ Internet Control Protocol
