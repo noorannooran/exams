@@ -544,6 +544,8 @@ Midterm Review
 - act upon data in Network and Transport layer protocols
 ### layer 7 load balancers
 - distribute requests based on data found in Application Layer protocols (HTTP)
+- can use HTTP headers, cookies, data to make a decision on distribution
+
 ###
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
