@@ -607,6 +607,15 @@ Midterm Review
 - Install spam filter on the POP server
   - spam passes through SMTP server and delivered to mailbox
   - increased cost in storage, transmission, backup, data
+- Third Party Entity
+  - directed to third party, cleansed before redirected to organization
+  - changing MX Mail Exchange record
+
+## VPN Concentrators
+- virtual private network
+- enables users to enter a public network as if it were secure
+- encrypts **ALL** data transmitted between remote device and network
+
 ### Protocols
 1. SMTP Simple Mail Transfer Protocol: Port 25
 2. POP Post Office Protocol: Port 110
