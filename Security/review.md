@@ -472,6 +472,33 @@ Midterm Review
 
 # Chapter 7: Netowrk Security
 ## Security Through Network Devices
+- use security features in standard network hardware
+- *layered security* aka *defense in depth*
+- more difficul for attackers
+
+### OSI Reference Model
+- Open Systems Interconnection
+- how a network prepares data for deliver over the network
+- how data is handled when received
+- **layers**
+
+### OSI Layers
+1. Physical Layer
+   - send / receive signals from network
+2. Data Link Layer
+   - divide data into frames
+   - error detection/ correction
+3. Network Layer
+   - picks the route for the packet
+   - handles addressing
+4. Transport Layer
+   - error free data given to user
+5. Session Layer
+   - permit two parites to communicate
+6. Presentation Layer
+   - how data is presented to user
+7. Application layer
+   - user interface
 
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
