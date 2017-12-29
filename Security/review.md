@@ -754,7 +754,20 @@ Midterm Review
 - try to prevent malicious attacks
 - diff: location: located in line on the firewall itself
 - more quickly block an attack
+- knows information such as applications running, OS
 
+## UTM Security Appliances Unified Threat Management
+- multiple devices are required for protection
+- integrated device that combines several functions
+  - Antispam antiphishing
+  - antivirus, antispyware
+  - bandwidth optimization
+  - content filtering
+  - encryption
+  - firewall
+  - instant messaging control
+  - intrusion protection
+  - web filtering
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
 ### TCP/IP Transmission Control Protocol/ Internet Control Protocol
