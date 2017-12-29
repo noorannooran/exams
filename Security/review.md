@@ -677,7 +677,12 @@ Midterm Review
   - P2P file sharing
   - Script Exploits
   - TCP/IP malicious code attacks
-  
+
+### Intrusion Detection and Protection
+- IDS Intrusion Detection System
+  - detect attacks as it occurs
+- IPS Intrusion Prevention System
+
 
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
