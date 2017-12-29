@@ -470,6 +470,9 @@ Midterm Review
   - hashing: SHA-2
   - not released to public
 
+# Chapter 7: Netowrk Security
+## Security Through Network Devices
+
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
 ### TCP/IP Transmission Control Protocol/ Internet Control Protocol
