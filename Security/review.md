@@ -1227,7 +1227,42 @@ Midterm Review
    - a. Certificate Signing Request
 2. ___ performs real-time lookup of a digital certigicate's status
    - b. Online Certificate Status Protocl
-3. ___ are symmetric keys to encrypt and decrypt information exchanged during the session 
+3. ___ are symmetric keys to encrypt and decrypt information exchanged during the session and to verify its integrity
+   - a. session keys
+4. WHich of these is considered the weakest cryptographic transport protocol?
+   - SSL v2.0
+5. The strongest technology that would assure Alice that Bob is the sender of a message is an __
+   - c. digital certificate
+6. A digital certificate associates ____
+   - the user's identity with his public key
+7. Digitial certificates can be used for each of these EXCEPT ___
+   - to verify the authenticity of the Registration Authorizer
+8. An entity that issues Digital Certificates is a
+   - a. Certificate Authority 
+9. A centralized directory of digital certificates  is called a
+   - b. Certificate Repository (CR)
+10. In order to ensure a secure cryptographic connection ebtween a wbe browser and a web server, a ____ would be used
+	- c. server digital certificate
+11. A digital certificate tha turns the address bar green is an ____
+	- d. Extended Validation SSL Certificate
+12. THe ___ party trust model supports CA
+	- c. third
+13. Public Key Crytography STandards (PKCS)_____
+	- a. are widely accepted in the industry
+14. Which statement is NOT true regarding hierarchical trust modelS?
+	- c it is designed for use on a large scale
+15. Which of these is NOT where keys can be stored?
+	- b. in digests
+16. Public Key Infrastructure
+	- b. is the management of digital certificates
+17. An ___ is a published set of rules that govern the operaton of a PKI
+	- CP Certificate Policy
+18. Which of these is NOT a part of the certificate life cycle
+	- b. Authorization
+19. __ refers to a situation in which keys are managed by a third party, such as a trusted CA
+	- a. key escrow
+20. ___ is a protocol for securely accessing a remote computer
+	- SSH
 
 ## Chapter 7
 1. Which secure feautre does a load balancer NOT provide?
