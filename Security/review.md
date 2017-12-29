@@ -532,6 +532,19 @@ Midterm Review
 - forward packets across networks
 - can filter specific types of network traffic
 
+## Load Balancers
+- evenly distribute work across network
+- advantages:
+  - reduced overload of server
+  - optimized bandwidth
+  - downtime reduced
+- software OR hardware
+
+### layer 4 load balancers
+- act upon data in Network and Transport layer protocols
+### layer 7 load balancers
+- distribute requests based on data found in Application Layer protocols (HTTP)
+###
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
 ### TCP/IP Transmission Control Protocol/ Internet Control Protocol
