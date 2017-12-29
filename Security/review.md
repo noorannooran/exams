@@ -739,6 +739,7 @@ Midterm Review
 	- protocol stack verification
 	- application protocol verification
 	- creating extended logs
+ - can inspect incoming and outgoing traffic
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
 ### TCP/IP Transmission Control Protocol/ Internet Control Protocol
