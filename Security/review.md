@@ -1222,6 +1222,13 @@ Midterm Review
   - XML standard that allows web domains to exchange authentication and authorization data with each other
   
 # Review Questions
+## Chapter 6
+1. A ___ is a specially formatted encrypted message that validates the information the CA requires to issue a digital certificate
+   - a. Certificate Signing Request
+2. ___ performs real-time lookup of a digital certigicate's status
+   - b. Online Certificate Status Protocl
+3. ___ are symmetric keys to encrypt and decrypt information exchanged during the session 
+
 ## Chapter 7
 1. Which secure feautre does a load balancer NOT provide?
    - filter packets based on protocol settings
