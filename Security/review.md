@@ -684,6 +684,9 @@ Midterm Review
 - IPS Intrusion Prevention System
 
 
+#### Monitoring Methodologies
+
+
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
 ### TCP/IP Transmission Control Protocol/ Internet Control Protocol
