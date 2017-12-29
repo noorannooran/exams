@@ -546,6 +546,12 @@ Midterm Review
 - distribute requests based on data found in Application Layer protocols (HTTP)
 - can use HTTP headers, cookies, data to make a decision on distribution
 
+### Security
+- detect and stop attacks directed at server or application
+- detect and prevent DoS and protocol attavks
+- hide HTTP error pages, remove server identification headers
+- hide internal network information
+
 ###
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
