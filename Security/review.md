@@ -637,6 +637,17 @@ Midterm Review
 - built-in VPN endpoint:
   - handles all VPN setup, encapsulation, encryption
 
+#### Tunneling protocols
+- Generic Routing Encapsulation (GRE)
+  - framework for how to pakcage guest protocol for transport over IP
+- IPsec
+  - subprotocols:
+	- ESP: Encapsulated Security Payload
+	  - encrypts using a symmetric key
+	- AH: Authentication Header
+	  - creates a difgest of packer header
+- Remote access uses IPsec or L2tP Layer2 Tunneling Protocol
+
 
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
