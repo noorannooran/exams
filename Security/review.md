@@ -563,6 +563,42 @@ Midterm Review
 - improved management
 - stronger security
 
+## Hardware
+### Firewalls
+- inspect packets, accept or deny entry
+- first line of defense
+
+#### Filtering
+1. Stateless packet filtering
+   - permits or denies based on conditions set by admin
+2. Stateful packet filtering
+   - keeps a record of a connection, makes decisions based on the connection and the conditons
+
+#### Actions
+- Allow
+- Drop
+- Reject
+- Ask
+
+#### Firewall Methods
+1. Rule Based Firewalls
+   - use firewall rules
+   - contain info such as:
+	 - source address
+	 - destination address
+	 - source port
+	 - destination port
+	 - protocol
+	 - direction
+	 - action
+ - static in nature, straightforward, inflexible
+2. Application-Aware Firewalls
+   - NGFW Next-Generation Firewall
+   - id applications that send packets
+   - make decision sbased on the application
+   - e.g. Web application Firewall
+	 - looks at applications using HTTP
+
 ###
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
