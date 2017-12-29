@@ -694,6 +694,7 @@ Midterm Review
 - detecting statistical anomalies
 - baseline compiled over time
 - alarm is raised when deviation from this baseline
+- subject to *false positives*
 
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
