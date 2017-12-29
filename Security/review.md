@@ -695,6 +695,7 @@ Midterm Review
 - baseline compiled over time
 - alarm is raised when deviation from this baseline
 - subject to *false positives*
+- can fail to detect before baseline is completed
 
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
