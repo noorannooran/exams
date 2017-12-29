@@ -694,14 +694,16 @@ Midterm Review
 - detecting statistical anomalies
 - baseline compiled over time
 - alarm is raised when deviation from this baseline
-- subject to *false positives*
+- *weakness* subject to *false positives*
 - can fail to detect before baseline is completed
 
 ### Signature-based monitoring
 - examining network traffic, activity, transactions
 - compile behaviour
 - compares activities against predefined signature
-
+- *weakness:* signature databases must be updated
+  - compare against larger number of signatures
+  - can miss variations on known signatures
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
 ### TCP/IP Transmission Control Protocol/ Internet Control Protocol
