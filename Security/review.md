@@ -704,6 +704,19 @@ Midterm Review
 - *weakness:* signature databases must be updated
   - compare against larger number of signatures
   - can miss variations on known signatures
+  
+### Behaviour-based monitoring
+- adaptive and proactive instead of reactive
+- uses normal processes and actions as the standard
+- continually analyzes behaviour of processes and programs
+- alerts user if any actions are abnormal
+- **adv**: not necessary to update signature files or compile baseline
+  - quickly stop new attacks
+
+### Heuristic
+- will this do something harmful if it's allowed to execute?
+- uses an algorithm to determine whether a threat exists
+- triggered if an application tries to scan multiple ports
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
 ### TCP/IP Transmission Control Protocol/ Internet Control Protocol
