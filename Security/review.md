@@ -660,7 +660,24 @@ Midterm Review
   - used for collecting two LANs through a VPN tunnel
 
 ## Internet Content Filters
+- monitor internet traffic and block access to pre-selected websites REACTIVELY
+- URL filtering
+- malware inspection
+- prohibiting file downloads
+- profiles
+- detailed reporting
 
+### Web Secure Gateways
+- PROACTIVE
+- blocks malicious content in real time as it appears
+- can block:
+  - Adware and Spyware
+  - Cookies
+  - Instant messengers
+  - P2P file sharing
+  - Script Exploits
+  - TCP/IP malicious code attacks
+  
 
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
