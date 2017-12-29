@@ -697,6 +697,11 @@ Midterm Review
 - subject to *false positives*
 - can fail to detect before baseline is completed
 
+### Signature-based monitoring
+- examining network traffic, activity, transactions
+- compile behaviour
+- compares activities against predefined signature
+
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
 ### TCP/IP Transmission Control Protocol/ Internet Control Protocol
