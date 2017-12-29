@@ -599,7 +599,10 @@ Midterm Review
    - e.g. Web application Firewall
 	 - looks at applications using HTTP
 
-###
+## Spam Filters
+### Protocols
+1. SMTP Simple Mail Transfer Protocol
+2. POP Post Office Protocol
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
 ### TCP/IP Transmission Control Protocol/ Internet Control Protocol
