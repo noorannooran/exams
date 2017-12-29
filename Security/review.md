@@ -740,6 +740,16 @@ Midterm Review
 	- application protocol verification
 	- creating extended logs
  - can inspect incoming and outgoing traffic
+ - can perform different actions:
+   - sending email, page, cell phone message
+   - log the event
+
+### Application-Aware IDS
+- uses contextual knowledge in real-time
+- can know version of OS, which application is running, what vulnerabilities are present in the system
+- improves speed and accuracy
+- reduces risk of false positives
+
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
 ### TCP/IP Transmission Control Protocol/ Internet Control Protocol
