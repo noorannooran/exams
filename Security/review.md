@@ -719,7 +719,40 @@ Midterm Review
 - host availability
 - host elasticity
 - reduce costs
-- uninterrupted server access
+- uninterrupted server access:: live migration
+- patch compatibility
+- create snapshots
+- security control testing
+- sandboxing
+
+#### Disadvantages
+- will be vulnerable if not updated
+- single hypervisor compromised = all compromised
+- security tools do not adapt well to multiple VMs
+
+### Cloud Computing
+- on demand self service
+- univrsal client support
+- invisible resource pooling
+- immediate elasticity
+- metered services
+
+#### Clouds
+- Public Cloud
+  - services are offered to all users with access through Internet
+- Community Cloud
+  - open to specific organizations
+- Private Cloud
+  - private network
+  - reduces cost savings
+- Hybrid Cloud
+  - private/ public
+
+#### Service Models
+1. Software as a Service
+- Platform as a Service
+- Infrastructure as a Service
+
 
 # Chapter 11 : Access Control Fundamentals
 ## Terminology
@@ -881,7 +914,50 @@ Midterm Review
 - SAML Security Assertion Markup Language
   - XML standard that allows web domains to exchange authentication and authorization data with each other
   
-## Review Questions
+# Review Questions
+## Chapter 8
+1. Which high-speed storage network protocols used by a SAN is IP based?
+   - a. isCSI
+2. Which Fibre Channel zone is the most restrictive?
+   - FC hard zone
+3. An attacker can use NetBIOS to determine the following except ____
+   - c. list of remote NetBIOS names
+4. Which type of log can provide details regarding requests for specific files on a system>
+   - b. access log
+5. WHich type of device log contains the most beneficial security data?
+   - c. firewall log
+6. WHich type of cloud is offered to all users?
+   - c. public cloud
+7. Which of these would NOT be a valid Internet Control Message protocol error message?
+   - d. Router Delay
+8. ICMP is used by each of these attacks EXCEPT ___
+   - ICMP poisoning
+9. Which version of SNMP is considered the most secure?
+   - SNMP v3
+10. Which DNS attack replaces a fraudulent address for a symbolic name?
+	c. DNS poisoning
+11. Which of these is the most secure protocol for transferring files?
+	c. SFTP
+12. Each of these is a technique for securing a router EXCEPT?
+	- a. making all configuration changes remotely
+13. Which statement about a flood guard is true?
+	- b. It prevents DoS or DDoS attacks
+14. Each of these is an entry in a firewall log that should be investigated EXCEPT?
+	- b. successful logins
+15. if a group of users must be separated from other users, what is the most secure network design?
+	- b. connect them to different switches and routers
+16. Why is loop protection necessary?
+	- c. it prevents a broadcast storm that can cripple a network
+17. what does MAC limiting and filtering do?
+	- a. it limits devices that can connect to a switch
+18. In a network using IEEE 802.1x a supplicant
+	- b. makes a request to the authenticator
+19. Which statement is true regarding security for a computer that boots to Apple Mac OS X then runs a Windows Virtual Machine?
+	- d. The Windows virtual machine needs its own security
+20. Which of the following is NOT a security concern for virtualized environments?
+	- c. Virtual servers are less expensive than their physical counterparts
+
+## Chapter 11
 1. What is the current version of TACACS?
    - TACACAS+
 2. How is SAML used?
