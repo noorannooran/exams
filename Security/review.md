@@ -616,6 +616,14 @@ Midterm Review
 - enables users to enter a public network as if it were secure
 - encrypts **ALL** data transmitted between remote device and network
 
+
+### VPN Types
+- Remote Access VPN
+  - or virtual private dial-up network
+  - user-to-LAN
+  - remote users
+- Site to Site VPN
+  - multiple users connect to other sites over the internet
 ### Protocols
 1. SMTP Simple Mail Transfer Protocol: Port 25
 2. POP Post Office Protocol: Port 110
