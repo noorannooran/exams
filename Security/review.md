@@ -1250,7 +1250,19 @@ Midterm Review
 13. A reverse proxy ____
 	- routes incoming requests to the correct server
 14. Which is the preferred location for installation of a spam filter?
-	- d. on the proxy server
+	- b. with the SMTP server
+15. A ___ watches for attacks and sounds an alert only when one occurs
+	- d. network intrusion detection system
+16. A multipurpose security device is known as ___
+	- d. Unified Threat Management
+17. Each of these can be used to hide information about the internal network EXCEPT ____
+	- a. a protocol analyzer
+18. What is the difference betweena NIDS and a NIPS
+	- b. a NIPS can take actions more quickly to combat an attack
+19. If a device is determined to have an out-of-date virus signature file, then Network Access Control can redirect that device to a network by _____
+	- ARP poisoning
+20. A firewall using ___ is the most secure type of firewall
+	- stateful packet filtering
 	
 ## Chapter 8
 1. Which high-speed storage network protocols used by a SAN is IP based?
