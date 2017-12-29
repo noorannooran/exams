@@ -600,9 +600,19 @@ Midterm Review
 	 - looks at applications using HTTP
 
 ## Spam Filters
+- Install spam filter with SMTP server:
+  - simple, effective
+  - filter lists on port, sends non-spam to SMTP server
+  - spammer does not know it is not received
+- Install spam filter on the POP server
+  - spam passes through SMTP server and delivered to mailbox
+  - increased cost in storage, transmission, backup, data
 ### Protocols
-1. SMTP Simple Mail Transfer Protocol
-2. POP Post Office Protocol
+1. SMTP Simple Mail Transfer Protocol: Port 25
+2. POP Post Office Protocol: Port 110
+
+
+
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
 ### TCP/IP Transmission Control Protocol/ Internet Control Protocol
