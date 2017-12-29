@@ -684,8 +684,16 @@ Midterm Review
 - IPS Intrusion Prevention System
 
 
-#### Monitoring Methodologies
+## Monitoring Methodologies
+1. Anomoly- based Monitoring
+- Signature- based monitoring
+- behaviour-based monitoring
+- heuristic monitoring
 
+### Anomoly
+- detecting statistical anomalies
+- baseline compiled over time
+- alarm is raised when deviation from this baseline
 
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
