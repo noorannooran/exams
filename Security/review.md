@@ -776,6 +776,7 @@ Midterm Review
 - given same IP address, different port number
 - single address can be used for several users
 
+
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
 ### TCP/IP Transmission Control Protocol/ Internet Control Protocol
@@ -1221,6 +1222,36 @@ Midterm Review
   - XML standard that allows web domains to exchange authentication and authorization data with each other
   
 # Review Questions
+## Chapter 7
+1. Which secure feautre does a load balancer NOT provide?
+   - filter packets based on protocol settings
+2. Which of these would NOT be a filtering mechanism found in firewall rule?
+   - b. date
+3. A ___ can identify the application that sends packets and make decisions about filtering based on it
+   - a. application-aware firewall
+4. Which function does an Internet content filter NOT perform?
+   - d. intrusion detection
+5. How does network address translation imrpove security?
+   - c. it masks the IP address of the NAt device
+6. How does a virtual LAn allow devices to be grouped?
+   - b. logically
+7. Which device is the easiest for an attacker to take advantage of in order to capture and analyze packets?
+   - a. hub
+8. Which of these is NOT an attack against a switch?
+   - d. ARP address impersonation
+9. Which statement regarding a Demilitarized Zone is NOT true?
+   - it contains servers that are used only by internal network users
+10. Which statement about NAT is true?
+	- it removes private addresses when the packet leaves the netework
+11. Which of these is NOT an advantage of a load balancer
+	- a. the risk of overloading a desktop client is reduced
+12. An ___ intercepts internal user requests and then processes the request on behalf of the users
+	- c. proxy server
+13. A reverse proxy ____
+	- routes incoming requests to the correct server
+14. Which is the preferred location for installation of a spam filter?
+	- d. on the proxy server
+	
 ## Chapter 8
 1. Which high-speed storage network protocols used by a SAN is IP based?
    - a. isCSI
