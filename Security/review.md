@@ -717,6 +717,18 @@ Midterm Review
 - will this do something harmful if it's allowed to execute?
 - uses an algorithm to determine whether a threat exists
 - triggered if an application tries to scan multiple ports
+
+## Types of IDS
+1. Host Based Intrusion Detection System (HIDS)
+   - detect an attack as occurs
+   - software based
+   - agents on the system are protected
+   - monitor:
+	 - system calls
+	 - file system access
+	 - system registry settings
+ 
+2.
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
 ### TCP/IP Transmission Control Protocol/ Internet Control Protocol
