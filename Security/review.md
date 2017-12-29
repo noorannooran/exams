@@ -727,8 +727,14 @@ Midterm Review
 	 - system calls
 	 - file system access
 	 - system registry settings
- 
-2.
+	 - host input/ output
+ - DISADV:
+   - cannot monitor traffic that does not reach the system
+   - log data stored locally
+   - resource-intensive
+- Network Intrusion Detection System (NIDS)
+  - watches for attacks on the network
+  
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
 ### TCP/IP Transmission Control Protocol/ Internet Control Protocol
