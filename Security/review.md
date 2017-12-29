@@ -750,6 +750,11 @@ Midterm Review
 - improves speed and accuracy
 - reduces risk of false positives
 
+## IPSs Intrusion Prevention Systems
+- try to prevent malicious attacks
+- diff: location: located in line on the firewall itself
+- more quickly block an attack
+
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
 ### TCP/IP Transmission Control Protocol/ Internet Control Protocol
