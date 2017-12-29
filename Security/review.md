@@ -624,10 +624,18 @@ Midterm Review
   - remote users
 - Site to Site VPN
   - multiple users connect to other sites over the internet
+
 ### Protocols
 1. SMTP Simple Mail Transfer Protocol: Port 25
 2. POP Post Office Protocol: Port 110
 
+### VPN Transmissions
+- **endpoint**
+  - end of tunnel between VPN devices
+- **VPN concentrator**
+  - aggregates thousands of VPN connections
+- built-in VPN endpoint:
+  - handles all VPN setup, encapsulation, encryption
 
 
 # Chapter 8: Administering a Secure Network
