@@ -770,6 +770,11 @@ Midterm Review
   - web filtering
 
 ## Security through Network Technologies
+### NAT
+- public vs private IP addresses
+### PAT
+- given same IP address, different port number
+- single address can be used for several users
 
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
