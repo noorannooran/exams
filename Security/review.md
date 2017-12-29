@@ -768,6 +768,9 @@ Midterm Review
   - instant messaging control
   - intrusion protection
   - web filtering
+
+## Security through Network Technologies
+
 # Chapter 8: Administering a Secure Network
 ## Common Network Protocols
 ### TCP/IP Transmission Control Protocol/ Internet Control Protocol
