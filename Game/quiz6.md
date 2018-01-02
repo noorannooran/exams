@@ -116,5 +116,7 @@
 	- difficult to work with
 - e.g. we can't map the surface of the earth without distorting either angles or areas
 
+### From Quiz
+- Blendtree parameters use float values
 
 
