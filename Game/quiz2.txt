@@ -1,0 +1,152 @@
+Nooran El-Sherif1Expand Global Nav
+My Blackboard	
+Library Services
+GAME DEVELOPMENT CRN-13901-201701   Course-to-Course Navigation Tests & Quizzes
+Show Course Menu
+GAME DEVELOPMENT CRN-13901-201701
+Home Page
+Course Information
+My Instructor
+Content
+Assignments
+Tests & Quizzes
+Discussion Board
+My Grades
+Tools
+Help
+My Groups
+Group 7
+Group Homepage: Group 7
+Review Test Submission: Q2
+ 
+User	Nooran El-Sherif
+Course	GAME DEVELOPMENT CRN-13901-201701
+Test	Q2
+Started	1/1/18 8:49 PM
+Submitted	1/1/18 8:55 PM
+Status	Completed
+Attempt Score	9 out of 10 points  
+Time Elapsed	5 minutes out of 15 minutes
+Results Displayed	All Answers
+Question 1
+1 out of 1 points
+
+Which of the following Unity Views contains all game objects placed in the scene?
+
+Answers:	
+Inspector
+
+Game
+
+Hierarchy 
+
+Project
+
+Question 2
+1 out of 1 points
+
+How many cameras can we have in a scene?
+
+Answers:	
+1
+
+2
+
+10
+
+many
+
+Question 3
+1 out of 1 points
+
+What is the "Culling mask" used for?
+
+Answers:	
+Selective ordering of groups of objects.
+
+Selective rendering of groups of objects. 
+
+Selective transformation of groups of objects.
+
+Selective moving of groups of objects.
+
+Question 4
+1 out of 1 points
+
+Which of the following properties if the camera defines how far the camera can see?
+
+Answers:	
+far clipping plane
+
+near clipping  plane
+
+field of view
+
+view distance
+
+Question 5
+1 out of 1 points
+
+Changes applied to a prefab are applied to all of its GameObject instances.
+
+Answers:	
+True
+False
+Question 6
+1 out of 1 points
+
+What are Prefabs in Unity?
+
+Answers:	
+Reusable GameObject assets 
+
+Factories of GameObjects
+
+Elements used to build buildings in the scene
+
+components of a complex GameObject
+
+Question 7
+1 out of 1 points
+
+Which of the following is the best way to expose a script property to the Unity editor?
+
+Answers:	
+adding annotation [UnityVisible]
+
+making the field public
+
+adding [SerializeField] annotation
+
+making the field protected
+
+Question 8
+1 out of 1 points
+
+A link between a GameObject instance and a prefab used to instantiate this GameObject cannot be broken.
+
+Answers:	
+True
+False
+Question 9
+0 out of 1 points
+
+In orthographic view (camera) the size of the object depends on its distance from the camera.
+
+Answers:	
+True
+False
+Question 10
+1 out of 1 points
+
+Which of the following settings for the Clear flag can be used to draw an object "on top" of a scene seen through another camera?
+
+Answers:	
+skybox
+
+don't clear
+
+solid color
+
+depth only
+
