@@ -1,0 +1,20 @@
+log in with .\comp3061c
+password comp3061c
+D:\Comp3061C\VM\
+\Saved 202
+\7 Prof
+\Kali Linux
+
+Create Windows Server 2012 R2 Virtual machine using VMWare
+Workstation
+
+Windows 7
+192.168.140.131
+
+linux
+192.168.140.130
+
+windows server
+192.168.140.132
+
+https://github.com/dkhan1010/comp3061/tree/master/Lecture%20and%20labs/1-Introduction%20to%20security

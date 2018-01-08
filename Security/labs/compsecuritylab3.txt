@@ -1,0 +1,75 @@
+Windows7
+192.168.140.139
+
+WindowsServer
+192.168.140.138
+
+linux
+Lab 3b starhping
+LAB3A
+IP spoofing with Hping3
+spoofing in kali linux
+
+- run windows 7 vm with all firewalls disabled
+
+command to use in kali linux:
+
+	wireshark up and running in windows
+	applications>Sniffing>Wireshark>Start
+
+check that linux can ping windows ip
+hping3 -S [ip-address]
+
+check wireshark for SYN flag
+hping3 -S [ip-address] -a [fakeip]
+
+check wireshark in windows to see if fake ip is being used
+
+LAB 3B
+ARP poisoning
+- taking server macaddress and replacing it with yours
+	- when someone sends a message to the server
+	- it sends the packets to you "man in the middle"
+
+
+Lab 3b start
+
+log in as administrator on windows 7, swindows server, linux root
+
+cmd prompt in windows 7
+	- delete the arp cache
+arp -d *
+
+same with windows server
+
+arp -a
+check mac address
+
+next:
+windows server:
+delete arp cache
+
+linux:
+attack!
+Applications> Sniffinf and spoofing> ethercap graphic
+sniff > sniffing
+Hosts> scan for host
+will see the ip addresses of windows 7 and windows server
+- make sure you know which ip is which
+
+Add to target 1, add to target 2
+Mitm > Sniff remote connections > ok
+
+
+back to server
+check arp cache
+
+Lab 3c
+Man in the middle
+using ARP poisoning
+change the MAC address of a server to an attacker's MAC address
+
+
+physical address:
+default gateway windows server
+00-50-56-f0-0b-de
