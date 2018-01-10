@@ -21,7 +21,8 @@
 	- remote desktop users browse > check name for Remote Desktop : Users
 	- Apply
 - Force group policy update
-- Run cmd > cmd prompt  **gpupdate /force**
+- Run cmd 
+	> **gpupdate /force**
 - Firewall > Advanced Setting> Inbound Rules> Remote Desktop : User TCP-in UDP-in
 	- ensure it says Allow and Allow
 - Windows 7:
@@ -32,8 +33,12 @@
 
 # Lab 8.2 Configuring Windows Firewall on Windows 7
 - Windows 7 as administrator
-- Control Panel> Program and Features > IIS Internet Information Services > OK
-- Browser> your IP address > IIS7
+- Control Panel
+- Program and Features
+- IIS Internet Information Services 
+- OK
+- Browser
+- your IP address/IIS7
 - C: inetpub/ wwwroot
 	- create new text document
 	- write some html save as Default.html
@@ -44,17 +49,31 @@
 	- because firewall is blocking communication
 
 ## Setting up the firewall on windows 7
-- Windows 7 ? control Panel> firewall> advanced settings
+- Windows 7 
+- control Panel
+- firewall 
+- advanced settings
 - inbound rule > World Wide Services HTTP traffic in
 	- General > Enabled > Apply
 
 - Go back to server
 - try to browser> windows 7 ip 
-
-- IIS Services Manager > Sites> Can change Port that the IIS service is run on 
-- Windows 7 Firewall> Inbound Rules > Create New Rule > Port > Next (specify port number 81 or whatever)
-	- next > allow connection > Next > Name the rule : Private Website or whatever
-- go back to Winodws Server >  Browser> Windows 7ip:port81 (or whatever new port is)
+- (Still Windows 7)
+- IIS Services Manager 
+- Sites
+- Click Default Web Site
+- (BINDINGS)Can change Port that the IIS service is run on 
+- Windows 7 Firewall
+- Inbound Rules 
+- Create New Rule 
+- Port 
+- Next (specify port number 81 or whatever)
+- next 
+- allow connection 
+- Next 
+- Name the rule : Private Website or whatever
+- go back to Winodws Server 
+- Browser-> Windows 7ip:port81 (or whatever new port is)
 
 # Lab 8.3 Installing and Configuring an SSH Server
 - uses port 22
@@ -69,7 +88,8 @@
 	- yes create private key
 	- no system service
 - click the sshd
-right click > settings > see that it's running
+- click icon in menu bar
+- right click > settings > see that it's running
 - theres an RSA  and DSA key
 - create a banner:
 	- text document on desktop SSHbanner
@@ -78,6 +98,7 @@ right click > settings > see that it's running
 - settings again> Encryption = any
 - add a User under  users
 	- Administrator set up login	
+	- NT authentication
 	- domain gb.com
 	- ok
 - can set up mbloom 
@@ -97,7 +118,7 @@ right click > settings > see that it's running
 - go to server 
 - Netowrk and Sharing Center> Advanced Settings > Inbound rules
 - set up a new rule
-	- port > next >  TCP > port number 22
+	- port 22 > next >  TCP > port number 22
 	- allow connection > next > next
 	- name the inbound rule Inbound SSH
 - run putty.exe

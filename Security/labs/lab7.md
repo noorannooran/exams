@@ -60,6 +60,8 @@ set login, create password > Next
 - FTP firewall support (if it doesn't work: enable entry in firewall)
 
 ## Set Up FTP Client
+- log into administrator on windows 7 professional
+- cmd prompt
 - login into ftp server:
 	- cmd prompt as admin: ping server
 	- cmd prompt **ftp server**
@@ -109,7 +111,9 @@ set login, create password > Next
 - Windows > Run > services.msc
 - Telnet> Automatic> Apply > Start
 	- up and running
-- ServerManager ? Tools > ActiveDirectory Users and Computers > Use User >> Add > TelnetClients
+- ServerManager ? Tools 
+- ActiveDirectory Users and Computers 
+- Double Click User > Groups Add > TelnetClients
 - Windows 7:
 	- Login as administrator
 	- Control Panel> Programs and Features > Turn Windows Features on> [X] Telnet Client > OK

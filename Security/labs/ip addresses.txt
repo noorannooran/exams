@@ -1,0 +1,6 @@
+Windows Server
+192.168.177.128
+SERVER
+
+Windows 7 Professional
+192.168.177.129
