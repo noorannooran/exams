@@ -266,6 +266,7 @@ void FixedUpdate(){
 ## ProjectileShoot Script
 - trigger animation
 - create projectile
+
 ```csharp
 [SerializeField]
 private GameObject projectile;
@@ -423,3 +424,13 @@ void OnCollisionEnter2D(Collision2D other){
 - add die Animation to the Hero GameObject
 	- from any state
 	- with bool "dead"
+
+## To change scene
+- have class SceneManager
+- using Unity.SceneManager
+
+```csharp
+ SceneManager.LoadScene(1); //index
+```
+- build settings: make sure all scenes are listed there (drag and drop)
+- use name or index in Inspector
